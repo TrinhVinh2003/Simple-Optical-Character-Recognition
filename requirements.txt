@@ -1,0 +1,6 @@
+opencv-python
+numpy
+tk
+Pillow
+tensorflow
+pywin32
