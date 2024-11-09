@@ -16,7 +16,7 @@ pywin32
 ### Clone the Repository
 Git clone project về máy tính của bạn
 ```bash
-    git clone https://github.com/Tranngocphuc2003/Mini-project-3-Simple-Optical-Character-Recognition.git
+    git clone https://github.com/TrinhVinh2003/Simple-Optical-Character-Recognition.git
     cd Mini-project-3-Simple-Optical-Character-Recognition 
 ```
 ### Hướng dẫn sử dụng
